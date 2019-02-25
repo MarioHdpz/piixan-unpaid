@@ -1,0 +1,32 @@
+body {
+    background-color: #51cfd2;
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+}
+
+.logo-container {
+    display: block;
+    width: 100%;
+    margin: 0 20%;
+}
+
+.logo {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.image-container {
+    position: relative;
+    display: block;
+}
+
+.tuffy {
+    /* position: absolute; */
+    /* top: 50%;
+    transform: translateY(-50%); */
+}
